@@ -1,5 +1,5 @@
-/*var budget = 100;
-var product = 60;*/
+var budget = 100;
+var product = 60;
 let payment;
 if (budget >= product)    {
     payment = "U heeft genoeg geld!";
@@ -9,5 +9,3 @@ else    {
 }
 document.getElementById("balance").innerHTML = payment;
 
-var budget = document.getElementById("b1");
-var product = document.getElementById("p1");
