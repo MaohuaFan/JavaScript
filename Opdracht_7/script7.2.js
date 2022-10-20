@@ -1,4 +1,4 @@
-var budget = 100;
+var budget = prompt("Geef je budget in getallen: ");
 var product = 60;
 function balance() {    
     if(budget > product) {
