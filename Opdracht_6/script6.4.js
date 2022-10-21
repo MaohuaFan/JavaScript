@@ -16,5 +16,5 @@ function multiplyByFive() {
 
 function calculateMinutes(sec) {
     var som = sec / 60;
-    document.getElementById("p1").innerHTML = som + "  minuten";
+    document.getElementById("p1").innerHTML = som + " minuten";
 }
