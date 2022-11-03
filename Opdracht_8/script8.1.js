@@ -26,4 +26,3 @@ function devide() {
     var ans = getal1 / getal2;
     document.getElementById("answer").innerHTML = "Het antwoord is " + ans;
 }
-
